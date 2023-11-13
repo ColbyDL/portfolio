@@ -7,9 +7,11 @@ Bachelor of Science in Computer Science
 
 Concentration: (Unofficial until spring '24) Software, Systems, and Networks
 
-Honors: Chancellor's List        GPA: 4.0         Grad: DEC 2024
+Honors: Chancellor's List | GPA: 4.0 | Grad: DEC 2024
 
-Classes Taken by Summer 2024: Visual Analytics, Software Engineering, Database Design and Implementation, Data Structures and Algorithms, Programming Languages, Parallel and
+Classes Taken by Summer 2024:
+
+Visual Analytics, Software Engineering, Database Design and Implementation, Data Structures and Algorithms, Programming Languages, Parallel and
 Distributed Computing
 
 ---
@@ -20,11 +22,13 @@ Bachelor of Science in Civil Engineering
 
 Honors: Dean's List | With Distinction | Distinguished Military Graduate
 
-GPA: 3.4        Grad: MAY 2018
+GPA: 3.4 | Grad: MAY 2018
 
 ## Skills
 **Languages:** Java, Python, MySQL, C, C++, HTML, Markdown, Assembly RISC-V
+
 **Tools:** GitHub, Junit, Visual Studio Code, IntelliJ IDEA, NetBeans, Anaconda, Excel, GIS, WireShark, Pandas, PyTorch, Scikit-Learn
+
 **OS:** Windows/Linux
 
 
