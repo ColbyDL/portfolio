@@ -54,11 +54,13 @@ GPA: 3.4 | Grad: MAY 2018
 
 ## Projects
 
-1. Data Analytics - Car Accidents of 2016-2021
+**1. Visual Analytics 4122 Final Project - Car Accidents of 2016-2021**
   - In this project, three other UNCC students and I analyzed Car Accidents in America between 2016 and 2021. This Project utilizes Streamlit.io to display our findings and Machine Learning to predict the severity of a crash based on several factors to include: side of accident, percipitation, Temperature, and the State.
   - We provide analysis based on various weather conditions as well as time and location to determine where and when accidents occur most frequently.
 
+[![Visual Analytics Project](assets/img/Screenshot 2023-11-14 003057.png)](https://youtu.be/VYO9bsbowiQ)
 
+**2. **
 
 
 
