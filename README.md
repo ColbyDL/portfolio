@@ -9,7 +9,7 @@ Concentration: (Unofficial until spring '24) Software, Systems, and Networks
 
 | Honors: Chancellor's List | GPA: 4.0 | Grad: DEC 2024 |
 
-Classes Taken by Summer 2024:
+**Classes Taken by Summer 2024:**
 
 Visual Analytics, Software Engineering, Database Design and Implementation, Data Structures and Algorithms, Programming Languages, Parallel and
 Distributed Computing
@@ -53,6 +53,12 @@ GPA: 3.4 | Grad: MAY 2018
 
 
 ## Projects
+
+1. Data Analytics - Car Accidents of 2016-2021
+  - In this project, three other UNCC students and I analyzed Car Accidents in America between 2016 and 2021. This Project utilizes Streamlit.io to display our findings and Machine Learning to predict the severity of a crash based on several factors to include: side of accident, percipitation, Temperature, and the State.
+  - We provide analysis based on various weather conditions as well as time and location to determine where and when accidents occur most frequently.
+
+
 
 
 
