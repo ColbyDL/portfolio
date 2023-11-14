@@ -74,7 +74,7 @@ GPA: 3.4 | Grad: MAY 2018
   - TCP Goal: Send a lower case message to the server and receive the message captitalized back at the client. This demonstrates the stability and 3-way handshake of a TCP connection.
   - Click on the picture for the project video submission on youtube.com
 
-[![Socket Programming TCP/UDP](assets/img/Screenshot 2023-11-14 005733.png)](https://youtu.be/yUFHny_0e2U)
+[![Socket Programming TCP/UDP](assets/img/Screenshot 2023-11-14 011258.png)](https://youtu.be/yUFHny_0e2U)
 
 ## Awards (2018-2022)
 - ARMY COMMENDATION MEDAL
