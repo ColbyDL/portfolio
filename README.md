@@ -1,5 +1,7 @@
 # Computer Science Major at UNCC
 
+![Logos](assets/img/combined.png)
+
 ## Education
 #### **University of North Carolina (UNCC)** Charlotte, NC
 
