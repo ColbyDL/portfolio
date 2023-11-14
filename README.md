@@ -54,13 +54,16 @@ GPA: 3.4 | Grad: MAY 2018
 
 ## Projects
 
-**1. Visual Analytics 4122 Final Project - Car Accidents of 2016-2021**
+**1. Visual Analytics 4122 Final Project - Car Accidents of 2016-2021 (Python)**
   - In this project, three other UNCC students and I analyzed Car Accidents in America between 2016 and 2021. This Project utilizes Streamlit.io to display our findings and Machine Learning to predict the severity of a crash based on several factors to include: side of accident, percipitation, Temperature, and the State.
   - We provide analysis based on various weather conditions as well as time and location to determine where and when accidents occur most frequently.
+  - Click on the picture for the project video submission on youtube.com
 
 [![Visual Analytics Project](assets/img/Screenshot 2023-11-14 003057.png)](https://youtu.be/VYO9bsbowiQ)
 
-**2. **
+**2. Data Structures and Algorithms 2214 - Melody Player (Java)**
+  - In this assignment, we were instructed to utilize Stacks and Queues to alter the melody played by the Melody Interface.
+  - The Melody Interface has the capabilities to load, play, append, raise/lower octave, change tempo, or reverse the melodies selected
 
 
 
