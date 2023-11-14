@@ -1,7 +1,7 @@
 title:  Colby D. Lalicker
 logo: assets/img/circleme.jpg
 description: <a href="//drive.google.com/uc?export=download&id=1cj4J2plKvLsp-kDDmzqR8T2-rmR4YTMP">Resume Download</a>
-show_downloads: false
+show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
