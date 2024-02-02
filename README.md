@@ -7,7 +7,7 @@
 
 Bachelor of Science in Computer Science
 
-Concentration: (Unofficial until spring '24) Software, Systems, and Networks
+Concentration: Software, Systems, and Networks
 
 | Honors: Chancellor's List | GPA: 4.0 | Grad: DEC 2024 |
 
